@@ -1,4 +1,4 @@
-# Examining the Hidden Variable and Costs of Transit Projects
+# Examining the Hidden Variables and Costs of Transit Projects
 
 This project is about analyzing the Transit Costs Project public transit database and uncovering additional insight into the cost drivers of transit in high-cost countries like the US. The aim of this project is to further uncover ways in which costs can be lowered in future projects as the challenges in, and demand for, building transit rise.
 
