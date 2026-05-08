@@ -10,4 +10,3 @@ The write-up for the project can be found here: https://rp-27.github.io/posts/ex
 Jupyter Notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rp-27/examining-transit-data/HEAD?urlpath=%2Fdoc%2Ftree%2FTransit+Data.ipynb)
-<img width="468" height="238" alt="image" src="https://github.com/user-attachments/assets/562b1065-555d-490d-933a-e988fc044d37" />
